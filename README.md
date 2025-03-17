@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Michael! <a href="https://www.linkedin.com/in/michael-angelo-tadeo-62b2a9b4/">Data Analyst/Business Analyst/Powerr BI Developer</a>
 
 <h2>👨‍💻 Power BI Projects:</h2>
 
