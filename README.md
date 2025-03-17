@@ -1,22 +1,17 @@
-<h1>Hi, I'm Michael! <a href="https://www.linkedin.com/in/michael-angelo-tadeo-62b2a9b4/">Data Analyst/Business Analyst/Powerr BI Developer</a>
+<h1>Hi, I'm Michael! <a href="https://www.linkedin.com/in/michael-angelo-tadeo-62b2a9b4/">Data Analyst/Business Analyst/Business Intelligence Analyst</a>
 
-<h2>👨‍💻 Power BI Projects:</h2>
+<h2>👨‍💻 Power BI/Automate/Apps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>CSC Bright Ideas Dashboard</b>
+  - [CSC Bright Ideas Dashboard](https://github.com/michael052491/github-portfolio/blob/main/CSC%20Bright%20Ideas%20Dashboard.pbix)
+- <b>GA Sponsor Services CAR Dashboard</b>
+  - [GA Sponsor Services CAR Dashboard](https://github.com/michael052491/github-portfolio/blob/main/GA%20Sponsor%20Services%20CAR%20Dashboard%20v5.5.pbix)
+- <b>Insurance Operations Intake Tool Dashboard</b>
+  - [Insurance Operations Intake Tool Dashboard](https://github.com/michael052491/github-portfolio/blob/main/Insurance%20Operations%20Intake%20Tool%20Dashboard.pbix)
+- <b>Bright Ideas Automation</b>
+  - [Bright Ideas Automation (Using Microsoft Power Automate)](https://github.com/michael052491/github-portfolio/blob/main/CSC-Brightideasflow_20240702193924.zip)
+- <b>Insurance Operations Intake Tool App</b>
+  - [Insurance Operations Intake Tool App (Using Microsoft Power Apps)](https://github.com/michael052491/github-portfolio/blob/main/InsuranceOperationsIntakeTool_20240704192319.zip)
 
 
 
